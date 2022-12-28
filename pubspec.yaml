@@ -12,6 +12,9 @@ dependencies:
   flutter:
     sdk: flutter
 
+  logger: 1.1.0
+  flutter_sharing_intent: 1.0.4
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
